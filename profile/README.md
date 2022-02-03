@@ -1,3 +1,3 @@
-## EXPANSE Administrative Cohorts WP3
+## Welcome
 
-Welcome to the GitHub Organization for EXPANSE WP3 responsible for developing the administrative cohorts analysis.
+This is the GitHub Organization for EXPANSE WP3 in charge of developing the administrative cohorts analysis.
